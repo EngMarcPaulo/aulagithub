@@ -1,4 +1,5 @@
 PASSO A PASSO PRIMEIRA VERSÃO DE UM PROJETO NO GITHUB
+
 Considerando que o seu ambiente já está todo configurado (usuário e email, visualização de arquivos ocultos, chave SSH), sempre que você criar um novo projeto, os passoa básicos serão estes:
 
 git init
