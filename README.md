@@ -23,3 +23,9 @@ git add .
 git commit -m "Mensagem explicativa"
 
 git push
+
+------------------------------------------------------------------------
+
+E para fazer um bom READ-ME, aqui vai um vídeo muito interessante do Professor Nelio:
+
+https://www.youtube.com/watch?v=jIa8R69pKh8
